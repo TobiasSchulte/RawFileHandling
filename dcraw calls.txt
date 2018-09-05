@@ -1,0 +1,5 @@
+D:\Scratch\RawFileHandling\test_data>..\libs\dcraw-9.27-ms-64-bit\dcraw-9.27-ms-64-bit.exe -W -6 -T DS7_0345.NEF
+
+D:\Scratch\RawFileHandling\test_data>..\libs\dcraw-9.27-ms-64-bit\dcraw-9.27-ms-64-bit.exe -6 -T DS7_0345.NEF
+
+..\..\..\RawFileHandling\libs\dcraw-9.27-ms-64-bit\dcraw-9.27-ms-64-bit.exe -W -6 -T Darks1.NEF
