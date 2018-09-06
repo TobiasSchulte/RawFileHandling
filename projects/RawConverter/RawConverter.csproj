@@ -95,5 +95,11 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\..\libs\dcraw-9.27-ms-64-bit\dcraw-9.27-ms-64-bit.exe">
+      <Link>dcraw-9.27-ms-64-bit.exe</Link>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
